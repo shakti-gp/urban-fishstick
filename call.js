@@ -1,6 +1,6 @@
 const makeRequest = async (url) => {
     const response = await fetch(url, {
-        method: "GET",
+        method: "POST",
         headers: {
             Authorization: "Bearer 1|ryvySDg8kgXAtedtSIS9TdlGdMZlHsLrfKxAEHwt",
         },
