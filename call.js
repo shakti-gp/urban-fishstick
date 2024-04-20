@@ -17,3 +17,4 @@ const caller = async () => {
 };
 
 caller();
+caller();
