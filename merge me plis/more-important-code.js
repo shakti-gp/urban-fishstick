@@ -1,1 +1,1 @@
-console.log("hacktober yay!!");
+console.log("hello world");
